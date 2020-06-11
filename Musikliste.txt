@@ -1,2 +1,5 @@
 Lied1
 Lied2
+HassLied1
+HassLied2
+HassLied3
